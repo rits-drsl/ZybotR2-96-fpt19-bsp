@@ -1,2 +1,2 @@
 # fad-fpt19-bsp
-Board Support Packages for rits-drsl/fad-fpt19
+Board Support Packages for rits-drsl/ZybotR2-96-fpt19
